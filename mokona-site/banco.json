@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "kingdom-hearts-ps2",
+      "name": "Kingdom Hearts",
+      "platform": "PS2",
+      "code": "",
+      "price": 3500,
+      "stock": 3,
+      "cost": 0,
+      "buyDate": "",
+      "buyPlace": "Mercari",
+      "condition": "Bom",
+      "general": "Bom",
+      "disc": "Sem riscos, testado",
+      "box": "Caixa com pequenas marcas",
+      "channels": [
+        "Mercari",
+        "eBay"
+      ],
+      "notes": "Exemplo baseado na ficha do PDF. Edite pelo modo admin.",
+      "img": ""
+    }
+  ],
+  "orders": []
+}
